@@ -1,0 +1,12 @@
+[packages]
+fastapi = "*"
+uvicorn = "*"
+python-multipart = "*"
+pdfplumber = "*"
+pandas = "*"
+openpyxl = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
